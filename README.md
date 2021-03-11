@@ -6,11 +6,12 @@
 
 ## Description 
 This Node application is for a business owner to be able to view and manage departments, roles, and employees in their company in order to organize and plan their business. <br />
+<br/>
 This application gives you the following options:<br/>
- 1.View all employees by department and manager.<br/>
- 2.Add employee, department and role.<br/>
- 3.Update employee's role. <br/>
- 4.Delete employee, role and department.<br/>
+ * 1.View all employees by department and manager.<br/>
+ * 2.Add employee, department and role.<br/>
+ * 3.Update employee's role. <br/>
+ * 4.Delete employee, role and department.<br/>
 <br/>
 Below is the video demo showing the functionality of the application:<br />
   
